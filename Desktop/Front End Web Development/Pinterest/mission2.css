@@ -1,0 +1,53 @@
+.green {
+	color:green;
+	font-weight:bold;
+}
+.maroon {
+	color:maroon;
+	font-weight:bold;
+	font-size:24px;
+}
+.coral{
+	color:#FF7F50;
+	font-weight:bold;
+	font-size:20px;
+}
+.goldenrod {
+	color:#DAA520;
+	font-weight:bold;
+	font-size:16px;
+}
+.seagreen{
+	color:#2E8B57;
+	font-weight:bold;
+	font-size:12px;
+}
+.royalblue{
+	color:#4169E1;
+	font-weight:bold;
+	font-size:10px;
+}
+.plum{
+	color:#DDA0DD;
+	font-weight:bold;
+	font-size:8px;
+}
+div {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+} 
+span {
+	font-weight: bold;
+	font-size: 18px
+	color: #ffffff
+}
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
